@@ -34,4 +34,4 @@ You can interact with the chatbot through the Streamlit interface.
 3. Get instant IT support directly from the chatbot.
 
 🎬 Demo Video
-![Demo Video](demo.mp4)
+![Demo Video](demo.gif)
