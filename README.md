@@ -1,7 +1,7 @@
 # Chatbot with Mistral, LlamaIndex, Ollama & Streamlit 🚀
 
 ## Overview
-This project involves creating an AI-powered **Enterprise IT Support Chatbot** using state-of-the-art technologies like **Mistral**, **LlamaIndex**, and **Ollama**, integrated with a retrieval-augmented generation (RAG) system. It provides seamless, real-time support for IT-related queries and is built using **Streamlit** for an interactive UI.
+This project involves creating an AI-powered **IT Support Chatbot** using state-of-the-art technologies like **Mistral**, **LlamaIndex**, and **Ollama**, integrated with a retrieval-augmented generation (RAG) system. It provides seamless, real-time support for IT-related queries and is built using **Streamlit** for an interactive UI.
 
 ## Key Features:
 - **Context-Aware Responses**: Uses Mistral (a large language model) to generate accurate responses based on user queries.
@@ -33,3 +33,13 @@ Clone the repository and install the dependencies:
 git clone https://github.com/<your-username>/chatbot-mistral-llamaindex-ollama.git
 cd chatbot-mistral-llamaindex-ollama
 pip install -r requirements.txt
+
+## Demo
+
+💻 **Try the Demo**:  
+You can interact with the chatbot through the Streamlit interface.  
+1. **Input your IT-related query** (e.g., "How do I reset my password?").
+2. The chatbot will retrieve relevant information from the knowledge base and maintain context across multiple turns in the conversation.
+3. Get instant IT support directly from the chatbot.
+
+[Click here to try the live demo](#) *(replace with your deployed link, if available)*.
